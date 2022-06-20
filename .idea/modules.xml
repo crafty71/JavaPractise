@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javapractise/JavaEE.iml" filepath="$PROJECT_DIR$/Javapractise/JavaEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaNet/JavaNet.iml" filepath="$PROJECT_DIR$/JavaNet/JavaNet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPractise01/JavaPractise01.iml" filepath="$PROJECT_DIR$/JavaPractise01/JavaPractise01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPractise02/JavaPractise02.iml" filepath="$PROJECT_DIR$/JavaPractise02/JavaPractise02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPractise03/JavaPractise03.iml" filepath="$PROJECT_DIR$/JavaPractise03/JavaPractise03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javapractise/Javapractise.iml" filepath="$PROJECT_DIR$/Javapractise/Javapractise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javapractise/Javapractise01.iml" filepath="$PROJECT_DIR$/Javapractise/Javapractise01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lambda/Lambda.iml" filepath="$PROJECT_DIR$/Lambda/Lambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflect/Reflect.iml" filepath="$PROJECT_DIR$/Reflect/Reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaPractise02/src.iml" filepath="$PROJECT_DIR$/JavaPractise02/src.iml" />
+    </modules>
+  </component>
+</project>

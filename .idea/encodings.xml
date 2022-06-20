@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/JavaPractise02/ copy01.txt" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/JavaPractise02/src/CCopyText/CopyText.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaPractise02/src/HInputStreamReader/InputStreamReaderDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaPractise02/src/PProperties/PropertiesDemo.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/JavaPractise03/src/AThread/ThreadDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/Stream/src/StreamDemo/StreamExperience.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/apple.text" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/copyable.txt" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
